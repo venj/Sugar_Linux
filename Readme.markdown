@@ -3,11 +3,6 @@ Sugar Linux
 
 Platform independent codes copied from [Sugar](https://github.com/venj/Sugar).
 
-Note
-----
-
-This is a test for how Swift package manager works on Linux platform.
-
 Build
 -----
 
@@ -37,6 +32,6 @@ See [main.swift](https://github.com/venj/SugarTest/blob/master/Sources/main.swif
 Note
 ----
 
-This is just a test. Do no use in real project. 
+This is a test for how Swift package manager works on Linux platform. Do no use in real project. 
 
 Anyway, I will make [Sugar](https://github.com/venj/Sugar) project cross-platform is possible in future. 
