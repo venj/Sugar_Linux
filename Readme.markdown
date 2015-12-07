@@ -32,7 +32,7 @@ Now, in your code:
 import Sugar
 ```
 
-See [main.swift](Sources/Sugar/main.swift) for an example.
+See [main.swift](https://github.com/venj/SugarTest/blob/master/Sources/main.swift) for an example.
 
 Note
 ----
