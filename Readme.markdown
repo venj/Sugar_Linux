@@ -34,4 +34,4 @@ Note
 
 This is a test for how Swift package manager works on Linux platform. Do no use in real project. 
 
-Anyway, I will make [Sugar](https://github.com/venj/Sugar) project cross-platform is possible in future. 
+Anyway, I will make [Sugar](https://github.com/venj/Sugar) project cross-platform if possible in future. 
