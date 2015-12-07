@@ -11,7 +11,7 @@
 #if os(Linux)
 import Glibc
 #else
-import Darwins
+import Darwin
 #endif
 
 @available(iOS 7.0, OSX 10.9, *)
